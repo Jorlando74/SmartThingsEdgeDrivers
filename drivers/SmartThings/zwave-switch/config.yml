@@ -1,5 +1,5 @@
 name: 'Leviton Z-Wave Dimmer'
-packageKey: 'leviton-zwave-dimmer'
+packageKey: 'zwave-switch'
 permissions:
   zwave: {}
 description: "Customized SmartThings driver for Leviton Z-Wave dimmer devices"
