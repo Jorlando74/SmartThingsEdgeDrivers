@@ -1,6 +1,6 @@
-name: 'Z-Wave Switch'
-packageKey: 'zwave-switch'
+name: 'Leviton Z-Wave Dimmer'
+packageKey: 'leviton-zwave-dimmer'
 permissions:
   zwave: {}
-description: "SmartThings driver for Z-Wave switch devices"
-vendorSupportInformation: "https://support.smartthings.com"
+description: "Customized SmartThings driver for Leviton Z-Wave dimmer devices"
+vendorSupportInformation: "https://community.smartthings.com/t/st-edge-driver-for-leviton-z-wave-plus-dimmers-dz6hd-dz1kd/257938"
